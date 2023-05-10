@@ -38,11 +38,11 @@ Pour utiliser que la méthode de prédiction, suivre les étapes suivants :
 
 Si vous n'ête pas conserné par les personnes qui ont eu l'identifiant partager, télecherger les models + tokenizer manuellement et importer sur colab.
 
-`sentiment_analysis_tokenizer.pickle` : https://mega.nz/file/ENdnhBgT#a74HxrLVK99mPb-_Wd9lq0B49s7qMb64meQ4l4l2VJ8
-`sentiment_analysis_rnn.h5` : https://mega.nz/file/tBcgkDYC#dtzHJWUTD6z0CgXF-qV4zDclo5HolbOKCLIysc294W4
-`sentiment_analysis_rnn_w2v.h5` : https://mega.nz/file/cQU0XYga#kRDDqQouOGGArRdYIE6ICxLI7G10kwh1UyDIP6EJsIc
-`sentiment_analysis_conv.h5` : https://mega.nz/file/xE9kTRwT#G76lwf9a22GRRcxljdbuvcrKGA0RMvu34cRaiKZjJ-I
-`sentiment_analysis_tcn.h5` : https://mega.nz/file/MEEnSIQS#a_7mscglYUh-Y_dBcGzxrEDlXr4s3oX9B-xAPvasPIQ
+* `sentiment_analysis_tokenizer.pickle` : https://mega.nz/file/ENdnhBgT#a74HxrLVK99mPb-_Wd9lq0B49s7qMb64meQ4l4l2VJ8
+* `sentiment_analysis_rnn.h5` : https://mega.nz/file/tBcgkDYC#dtzHJWUTD6z0CgXF-qV4zDclo5HolbOKCLIysc294W4
+* `sentiment_analysis_rnn_w2v.h5` : https://mega.nz/file/cQU0XYga#kRDDqQouOGGArRdYIE6ICxLI7G10kwh1UyDIP6EJsIc
+* `sentiment_analysis_conv.h5` : https://mega.nz/file/xE9kTRwT#G76lwf9a22GRRcxljdbuvcrKGA0RMvu34cRaiKZjJ-I
+* `sentiment_analysis_tcn.h5` : https://mega.nz/file/MEEnSIQS#a_7mscglYUh-Y_dBcGzxrEDlXr4s3oX9B-xAPvasPIQ
 
 ### Les techniques
 - Nettoyage des données
