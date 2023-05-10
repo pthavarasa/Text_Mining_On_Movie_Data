@@ -10,8 +10,10 @@ cet exercice sera alors de développer un modèle de classification de texte.
 
 ### Requirements
 ```bash
+# From command line
 pip install numpy pandas matplotlib scikit-learn keras tensorflow keras-tcn mega.py
-or from notebook
+
+# Or from notebook
 !pip install numpy pandas matplotlib scikit-learn keras tensorflow keras-tcn mega.py
 ```
 
